@@ -22,12 +22,13 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=e0f0ff" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=e0f0ff" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:nuriamontala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fde0db" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fde0db" alt="Email Badge"/>
   </a>
 </p>
+
 
 
 
