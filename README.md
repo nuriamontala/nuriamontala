@@ -8,7 +8,7 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&title_color=black&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default" />
       <br/>
       <img src="https://streak-stats.demolab.com?user=nuriamontala&theme=default" />
     </td>
