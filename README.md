@@ -13,7 +13,7 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
       <img src="https://streak-stats.demolab.com?user=nuriamontala&theme=default" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=donut-vertical&theme=default&include_forks=true" height="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=donut-vertical&theme=default&include_forks=true" height="400"/> 
     </td>
   </tr>
 </table>
