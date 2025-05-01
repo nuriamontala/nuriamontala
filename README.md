@@ -21,22 +21,14 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 ## Contact Me
 
 <p align="left">
-
-  <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank" style="text-decoration: none; margin-right: 10px;">
-    <span style="display: inline-flex; align-items: center; background-color: #e0f0ff; border: 1px solid #0077B5; color: #0077B5; border-radius: 6px; padding: 6px 12px; font-family: sans-serif; font-size: 14px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="18" style="margin-right: 8px;" />
-      LinkedIn
-    </span>
+  <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=e0f0ff" alt="LinkedIn Badge"/>
   </a>
-
-  <a href="mailto:nuriamontala@gmail.com" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; background-color: #fde0db; border: 1px solid #D14836; color: #D14836; border-radius: 6px; padding: 6px 12px; font-family: sans-serif; font-size: 14px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="18" style="margin-right: 8px;" />
-      Email
-    </span>
+  <a href="mailto:nuriamontala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=fde0db" alt="Email Badge"/>
   </a>
-
 </p>
+
 
 
 
