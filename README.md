@@ -9,9 +9,16 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=compact&theme=default)
 ![GitHub Streak](https://streak-stats.demolab.com?user=nuriamontala&theme=default)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nuriamontala&theme=github-compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=nuriamontala&theme=flat&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=donut&theme=default)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nuriamontala&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuriamontala&theme=default" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=nuriamontala&theme=flat&column=6" />
+
+
+<img src="https://ghchart.rshah.org/nuriamontala" />
+
 
 
 ## Contact Me
