@@ -6,31 +6,18 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 
 
 ## GitHub Stats
-<div align="center">
-
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-      <!-- Left column: GitHub stats and streak chart stacked -->
-      <td valign="top" style="padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default" />
-        <br/>
-        <img src="https://streak-stats.demolab.com?user=nuriamontala&theme=default" />
-      </td>
-
-      <!-- Right column: custom title + donut chart -->
-      <td valign="top" style="padding: 0; text-align: center;">
-        <h3>Most Used Programming Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=donut-vertical&theme=default&hide_title=true" height="400"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-
-
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default" />
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=nuriamontala&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=donut-vertical&theme=default" height="400"/>
+    </td>
+  </tr>
+</table>
 
 ## Contact Me
 
