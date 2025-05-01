@@ -6,9 +6,9 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=calm)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=compact&theme=tokyonight&ring=DD2727&fire=DD2727)
-![GitHub Streak](https://streak-stats.demolab.com?user=nuriamontala&layout=donut&theme=calm)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=nuriamontala&theme=default)
 
 ## Contact Me
 
