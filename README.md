@@ -23,18 +23,21 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 <p align="left">
 
   <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank" style="text-decoration: none; margin-right: 10px;">
-    <span style="display: inline-flex; align-items: center; background-color: #e0f0ff; color: #0077B5; border: 1px solid #0077B5; padding: 6px 12px; border-radius: 6px; font-family: sans-serif; font-size: 14px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="margin-right: 8px;" />
+    <span style="display: inline-flex; align-items: center; background-color: #e0f0ff; border: 1px solid #0077B5; color: #0077B5; border-radius: 6px; padding: 6px 12px; font-family: sans-serif; font-size: 14px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="18" style="margin-right: 8px;" />
       LinkedIn
     </span>
   </a>
 
   <a href="mailto:nuriamontala@gmail.com" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; background-color: #fde0db; color: #D14836; border: 1px solid #D14836; padding: 6px 12px; border-radius: 6px; font-family: sans-serif; font-size: 14px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="20" style="margin-right: 8px;" />
+    <span style="display: inline-flex; align-items: center; background-color: #fde0db; border: 1px solid #D14836; color: #D14836; border-radius: 6px; padding: 6px 12px; font-family: sans-serif; font-size: 14px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="18" style="margin-right: 8px;" />
       Email
     </span>
   </a>
+
+</p>
+
 
 </p>
 
