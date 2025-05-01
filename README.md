@@ -21,13 +21,17 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 ## Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-e0f0ff?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0077B5" alt="LinkedIn badge" />
+  <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align: middle;"/>
+    <span style="background-color:#e0f0ff; color:#0077B5; border: 1px solid #0077B5; padding: 6px 12px; margin-right:10px; border-radius:5px; font-family:sans-serif; font-size:14px;">LinkedIn</span>
   </a>
-  <a href="mailto:nuriamontala@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-fde0db?style=for-the-badge&logo=gmail&logoColor=D14836&color=D14836" alt="Email badge" />
+
+  <a href="mailto:nuriamontala@gmail.com" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="24" style="vertical-align: middle;" />
+    <span style="background-color:#fde0db; color:#D14836; border: 1px solid #D14836; padding: 6px 12px; border-radius:5px; font-family:sans-serif; font-size:14px;">Email</span>
   </a>
 </p>
+
 
 
 
