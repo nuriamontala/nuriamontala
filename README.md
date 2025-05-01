@@ -1,13 +1,14 @@
 # Hi, I'm Núria!
 
 <p align="justify">
-I hold a **degree in Biochemistry and Molecular Biology** from the Universitat Rovira i Virgili (URV), and I am currently pursuing a **Master's in Bioinformatics for Health Sciences** jointly offered by Universitat Pompeu Fabra (UPF) and Universitat de Barcelona (UB). My academic and research journey has fostered a deep interest in the intersection of **biology, computation, and data science**. I am particularly drawn to challenges in **structural bioinformatics**, **molecular modeling**, and the **application of machine learning to biomedical data**. I enjoy building tools that bridge experimental biology and computational analysis, with a focus on improving our understanding of molecular mechanisms in human health.
+I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the Universitat Rovira i Virgili (URV), and I am currently pursuing a <strong>Master's in Bioinformatics for Health Sciences</strong> jointly offered by Universitat Pompeu Fabra (UPF) and Universitat de Barcelona (UB). My academic and research journey has fostered a deep interest in the intersection of <strong>biology, computation, and data science</strong>. I am particularly drawn to challenges in <strong>structural bioinformatics, molecular modeling</strong>, and the <strong>application of machine learning to biomedical data</strong>. I enjoy building tools that bridge experimental biology and computational analysis, with a focus on improving our understanding of molecular mechanisms in human health.
 </p>
 
+
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=nuriamontala&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=calm)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=compact&theme=tokyonight&ring=DD2727&fire=DD2727)
+![GitHub Streak](https://streak-stats.demolab.com?user=nuriamontala&layout=donut&theme=calm)
 
 ## Contact Me
 
