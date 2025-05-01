@@ -1,7 +1,7 @@
 # Hi, I'm Núria!
 
 <p align="justify">
-I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the Universitat Rovira i Virgili (URV), and I am currently pursuing a <strong>Master's in Bioinformatics for Health Sciences</strong> jointly offered by Universitat Pompeu Fabra (UPF) and Universitat de Barcelona (UB). My academic and research journey has sparked a strong interest in the intersection of <strong>biology, computation, and data science</strong>. I am particularly drawn to challenges in <strong>genomics</strong>, and the <strong>application of machine learning to biomedical data</strong>. I enjoy building tools that bridge experimental biology and computational analysis, with a focus on improving our understanding of molecular mechanisms in human health.
+I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the Universitat Rovira i Virgili (URV), and I am currently pursuing a <strong>Master's in Bioinformatics for Health Sciences</strong> jointly offered by Universitat Pompeu Fabra (UPF) and Universitat de Barcelona (UB). My academic and research journey has sparked a strong interest in the intersection of <strong>biology, computation, and data science</strong>. I am particularly drawn to challenges in <strong>genomics</strong>, <strong>biomedical data visualization</strong>, and the <strong>application of machine learning to biomedical data</strong>. I enjoy building tools that bridge experimental biology and computational analysis, with a focus on improving our understanding of molecular mechanisms in human health.
 </p>
 
 ## GitHub Stats
@@ -20,17 +20,14 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 
 ## Contact Me
 
-<div align="center">
-
+<p align="center">
   <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-nuriamontala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=7ab6f0&labelColor=f5f5f5" alt="LinkedIn badge" />
   </a>
-  
-  <a href="mailto:nuriamontala@gmail.com" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Email-nuriamontala@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:nuriamontala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=ee7f6c&labelColor=f5f5f5" alt="Email badge" />
   </a>
-
-</div>
+</p>
 
 
 
