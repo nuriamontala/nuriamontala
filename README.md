@@ -5,7 +5,7 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 </p>
 
 ## GitHub Stats  
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default" />
@@ -16,9 +16,6 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=donut-vertical&theme=default&include_forks=true" height="400"/> 
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td align="left" valign="top">
       <h2>Languages and Tools</h2>
@@ -71,6 +68,7 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
     </td>
   </tr>
 </table>
+
 
 
 
