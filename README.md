@@ -8,12 +8,12 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nuriamontala&show_icons=true&theme=default" alt="nuriamontala" />
       <br/>
-      <img src="https://streak-stats.demolab.com?user=nuriamontala&theme=default" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuriamontala&" alt="nuriamontala" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriamontala&layout=donut-vertical&theme=default&include_forks=true" height="400"/> 
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriamontala&show_icons=true&theme=dark&locale=en&layout=donut-vertical&theme=default" alt="nuriamontala" />
     </td>
   </tr>
 </table>
@@ -66,3 +66,5 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=fde0db" alt="Email" />
   </a>
 </p>
+
+
