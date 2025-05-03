@@ -17,7 +17,7 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
     </td>
   </tr>
   <tr>
-    <td align="left" valign="top">
+    <td width="60%" valign="top" align="left">
       <h2>Languages and Tools</h2>
       <p>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -55,7 +55,7 @@ I hold a degree in <strong>Biochemistry and Molecular Biology</strong> from the 
         </a> 
       </p>
     </td>
-    <td align="right" valign="top">
+    <td width="40%" valign="top" align="right">
       <h2>Contact Me</h2>
       <p>
         <a href="https://www.linkedin.com/in/n%C3%BAria-montal%C3%A0-palau-a33b53254/" target="_blank">
